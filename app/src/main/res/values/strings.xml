@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationMananager</string>
+    <string name="notification">Tienes una notificación!</string>
+    <string name="notification_activity">Notificación de la nueva activity</string>
+    <string name="notification_compat">Notificación compat!</string>
+    <string name="pending_item">Texto del pending item!</string>
+    <string name="notification_custom">NOTIFICATION CUSTOM</string>
+</resources>
